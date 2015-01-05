@@ -4,6 +4,7 @@ import MySQLdb
 import time
 import sys
 import logging
+#for test 
 logger = logging.getLogger('mylogger')
 logging.basicConfig(level=logging.DEBUG,
                 format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
